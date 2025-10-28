@@ -1,3 +1,3 @@
 ﻿using ProblemSolving;
 
-Console.WriteLine( Medium.ReverseInteger(508));
+Console.WriteLine( Medium.MathChallenge(8));
